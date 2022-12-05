@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Irpan Helmi Gunawan</string>
+    <string name="texthello">Hello dunia</string>
+    <string name="textButton">Ganti Teks Random</string>
+    <string name="namaku">Irpan Helmi Gunawan</string>
+
+    <string name="pindahbutton">pindah ke halaman Movies</string>
+    <string name="api_key">2c4b5c9b12e7a1db6242337110576436</string>
+</resources>
